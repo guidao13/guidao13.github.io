@@ -1,0 +1,64 @@
+﻿# Site settings
+title: 诡  道
+header-img: "img/first-1.jpg"
+tagline: "cn"  
+description: "最怕自己碌碌无为"  
+baseurl: ""
+url: "http://guidao13.github.io"  
+
+# About/contact
+owner: 
+  name: " Guidao"
+  email: guidao13@gmail.com
+  bio: "随心所欲"
+
+# Data
+gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: img/favicon.png
+
+douban_username:  guidao 
+twitter_username: guidao 
+github_username: 
+facebook_username: 
+weibo_username: guidao 
+zhihu_username: guidao 
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+relative_permalinks: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Guidao"
+      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : guidao 
+  disqus :
+      short_name : guidao 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: 
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
