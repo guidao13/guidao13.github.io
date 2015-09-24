@@ -2,7 +2,7 @@
 layout:     post
 title:      "聊聊自己开博客的原因和近期规划"
 subtitle:   "一个人的梦想也许不值钱,但一个人的努力很值钱"
-date:       2015-09-23
+date:       2015-09-24
 author:     "Guidao"
 header-img: "img/post-plan2.jpg"
 tags:
