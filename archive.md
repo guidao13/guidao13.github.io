@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "你看到的，是我自学笔记和生活感悟"
-header-img: "img/first-3.jpg"
+header-img: "img/about-10.jpg"
 ---
 
 
