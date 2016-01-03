@@ -4,7 +4,7 @@ title:		"新的一年，新的规划"
 subtitle:	"展望2016，加油"
 date:		2016-01-03
 author:		"Guidao"
-header-img:	"img/wish-2.png"
+header-img:	"img/wish-2.jpg"
 tags:
      - 时光
      - 展望
