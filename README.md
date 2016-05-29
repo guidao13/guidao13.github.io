@@ -1,10 +1,7 @@
-##说明
-
-此博客 fork 自 [Azeril](http://azeril.me/)，感谢。
 
 ##诡道
 
-我是段传福，博客：[paao.wang](paao.wang )
+我是段传福，博客：[idushu.vip](idushu.vip )
 
 每天自学至少5小时：2015年09月20日开始，我将记录自己的自学生活。
 
